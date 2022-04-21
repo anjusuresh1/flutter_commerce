@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/anju/Desktop/flutter_commerce/frontend/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/anju/.gradle/caches/transforms-2/files-2.1/17318aca31af50f35682b25a8d22d7ff/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/anju/Desktop/flutter_commerce/frontend/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/anju/.gradle/caches/transforms-2/files-2.1/17318aca31af50f35682b25a8d22d7ff/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/anju/Desktop/flutter_commerce/frontend/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/anju/.gradle/caches/transforms-2/files-2.1/17318aca31af50f35682b25a8d22d7ff/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/anju/Desktop/flutter_commerce/frontend/build/url_launcher_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/anju/.gradle/caches/transforms-2/files-2.1/17318aca31af50f35682b25a8d22d7ff/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]
